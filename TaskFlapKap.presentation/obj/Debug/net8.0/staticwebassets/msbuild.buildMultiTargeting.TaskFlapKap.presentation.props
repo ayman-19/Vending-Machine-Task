@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskFlapKap.presentation.props" />
+</Project>

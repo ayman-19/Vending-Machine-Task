@@ -1,0 +1,16 @@
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\bin\Debug\net8.0\TaskFlapKap.DataTransfareObject.deps.json
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\bin\Debug\net8.0\TaskFlapKap.DataTransfareObject.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\bin\Debug\net8.0\TaskFlapKap.DataTransfareObject.pdb
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.AssemblyInfoInputs.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.AssemblyInfo.cs
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.csproj.CoreCompileInputs.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\refint\TaskFlapKap.DataTransfareObject.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.pdb
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\ref\TaskFlapKap.DataTransfareObject.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\bin\Debug\net8.0\TaskFlapKap.Domain.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\bin\Debug\net8.0\TaskFlapKap.Domain.pdb
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.csproj.AssemblyReference.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.csproj.CopyComplete
+E:\Projects\TaskFlapKap\TaskFlapKap.DataTransfareObject\obj\Debug\net8.0\TaskFlapKap.DataTransfareObject.sourcelink.json

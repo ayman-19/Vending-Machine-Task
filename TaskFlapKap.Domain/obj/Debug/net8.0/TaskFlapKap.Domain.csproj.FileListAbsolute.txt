@@ -1,0 +1,13 @@
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\bin\Debug\net8.0\TaskFlapKap.Domain.deps.json
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\bin\Debug\net8.0\TaskFlapKap.Domain.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\bin\Debug\net8.0\TaskFlapKap.Domain.pdb
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.AssemblyInfoInputs.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.AssemblyInfo.cs
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\refint\TaskFlapKap.Domain.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.pdb
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\ref\TaskFlapKap.Domain.dll
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.csproj.AssemblyReference.cache
+E:\Projects\TaskFlapKap\TaskFlapKap.Domain\obj\Debug\net8.0\TaskFlapKap.Domain.sourcelink.json
